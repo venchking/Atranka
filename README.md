@@ -1,2 +1,0 @@
-# Atranka
-Contact Manager
